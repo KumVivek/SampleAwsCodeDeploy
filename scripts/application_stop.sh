@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo systemctl stop nginx.service
+systemctl stop nginx.service
